@@ -1,4 +1,5 @@
-# Welcome to your CDK Java project!
+# Assignment 2 For Cloud Development
+## By Lucian Svelic
 
 ## Setup
 The application is intended to be used with Java 21, but should work with pretty much any version. 
